@@ -1,7 +1,7 @@
 /*************************** **********************************************/
 /*************************** Definition file ******************************/
 /*************************** **********************************************/
-// By FPGA4student.com
+
 `define INPUTFILENAME		 "kodim23.hex" // Input file name
 `define OUTPUTFILENAME		 "output.bmp"		// Output file name
 
